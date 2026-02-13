@@ -71,3 +71,6 @@ Implement the Strategy pattern to improve code maintainability and flexibility:
 
 <p><b>Note:</b> No if-else or switch statements will be used for behavior execution.</p>
 <p>See <b>GameApp.java</b> class to test the characters and their strategies.</p>
+
+## UML Diagram
+![alt text](https://github.com/ramdcrz/strategyPattern/blob/main/strategyPattern_UML.png)
